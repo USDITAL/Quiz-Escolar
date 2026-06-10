@@ -1,0 +1,14 @@
+{
+  "version": "1.3.0",
+  "date": "2026-06-07",
+  "entries": [
+    {
+      "type": "update",
+      "text": "Cambio del sistema de generación de imágenes por IA. Aislado o automático."
+    },
+    {
+      "type": "update",
+      "text": "Mejora de los tiempo de carga del sistema."
+    }
+  ]
+}
